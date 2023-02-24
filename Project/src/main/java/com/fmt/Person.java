@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * This class contains the information of persons data.
+ * 
  * @author Cong Nguyen
  * @author Yashraj Purbey
  *
@@ -15,14 +16,14 @@ public class Person {
 	private String lastName;
 	private String firstName;
 	private Address addressPerson;
-	private List<String> emails;
-	
+	private List<String> email;
+
 	public Person(String idPerson, String lastName, String firstName, Address addressPerson, List<String> emails) {
 		this.idPerson = idPerson;
 		this.lastName = lastName;
 		this.firstName = firstName;
 		this.addressPerson = addressPerson;
-		this.emails = emails;
+		this.email = emails;
 	}
 
 	public String getIdPerson() {
@@ -41,17 +42,12 @@ public class Person {
 		return this.addressPerson;
 	}
 
-	public List<String> getEmails() {
-		return this.emails;
+	public List<String> getEmail() {
+		return this.email;
 	}
 
 	public String toString() {
-		return this.idPerson + " " + this.lastName + " " + this.firstName
-				+ " " + this.addressPerson + " " + this.emails;
+		return this.idPerson + " " + this.lastName + " " + this.firstName + " " + this.addressPerson + " " + this.email;
 	}
-	
-	
-	
-	
-	
+
 }

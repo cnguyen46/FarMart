@@ -58,7 +58,7 @@ public class DataLoading {
 		try {
 			sc = new Scanner(f);
 			int num0fElements = Integer.parseInt(sc.nextLine());
-			for(int index = 0; index < num0fElements; index++) {
+			for (int index = 0; index < num0fElements; index++) {
 				String str = sc.nextLine();
 				String[] tokens = str.split(",");
 
@@ -122,7 +122,7 @@ public class DataLoading {
 		try {
 			sc = new Scanner(f);
 			int num0fElements = Integer.parseInt(sc.nextLine());
-			for(int index = 0; index < num0fElements; index++) {
+			for (int index = 0; index < num0fElements; index++) {
 				String str = sc.nextLine();
 				String[] tokens = str.split(",");
 
@@ -160,7 +160,7 @@ public class DataLoading {
 		try {
 			sc = new Scanner(f);
 			int num0fElements = Integer.parseInt(sc.nextLine());
-			for(int index = 0; index < num0fElements; index++) {
+			for (int index = 0; index < num0fElements; index++) {
 				String str = sc.nextLine();
 				String[] tokens = str.split(",");
 
@@ -168,21 +168,23 @@ public class DataLoading {
 				String idItem = tokens[0];
 				String typeItem = tokens[1];
 				String nameItem = tokens[2];
-				
+
 				if (typeItem.equals("E")) {
 					String model = tokens[3];
 					item = new Equipment(idItem, nameItem, model);
 
-				} if (typeItem.equals("P")) {
+				}
+				if (typeItem.equals("P")) {
 					String unit = tokens[3];
 					double unitPrice = Double.parseDouble(tokens[4]);
 					item = new Product(idItem, nameItem, unit, unitPrice);
 
-				} if (typeItem.equals("S")) {
+				}
+				if (typeItem.equals("S")) {
 					double hourlyRate = Double.parseDouble(tokens[3]);
 					item = new Service(idItem, nameItem, hourlyRate);
 				}
-				
+
 				listItem.add(item);
 			}
 
@@ -193,5 +195,4 @@ public class DataLoading {
 		return listItem;
 	}
 
-	
 }

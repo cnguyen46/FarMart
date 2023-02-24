@@ -1,6 +1,8 @@
 package com.fmt;
+
 /**
  * This class contains the information of address.
+ * 
  * @author Cong Nguyen
  * @author Yashraj Purbey
  */
@@ -11,7 +13,7 @@ public class Address {
 	private String state;
 	private String zipCode;
 	private String country;
-	
+
 	public Address(String street, String city, String state, String zipCode, String country) {
 		this.street = street;
 		this.city = city;
@@ -19,19 +21,19 @@ public class Address {
 		this.zipCode = zipCode;
 		this.country = country;
 	}
-	
+
 	public String getStreet() {
 		return this.street;
 	}
-	
+
 	public String getCity() {
 		return this.city;
 	}
-	
+
 	public String getState() {
 		return this.state;
 	}
-	
+
 	public String getZipCode() {
 		return this.zipCode;
 	}
@@ -41,9 +43,7 @@ public class Address {
 	}
 
 	public String toString() {
-		return this.street + " " + this.city + " " + this.state + " " + this.zipCode + " "
-				+ this.country;
+		return this.street + " " + this.city + " " + this.state + " " + this.zipCode + " " + this.country;
 	}
 
-	
 }

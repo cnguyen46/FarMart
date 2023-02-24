@@ -29,8 +29,13 @@ public class DataConverter {
 		DataLoading.loadDataReport("Item.csv:", "data/Items.csv");
 
 		// Call out the method to convert the csv file into json file
-		DataConverterJson.convertPersonData();
-		DataConverterJson.convertStoreData();
-		DataConverterJson.convertItemData();
+		DataConverterJson.personJson();
+		DataConverterJson.storeJson();
+		DataConverterJson.itemJson();
+
+		// Call out the method to convert the csv file into xml file
+		DataConverterXml.personXml();
+		DataConverterXml.storeXml();
+		DataConverterXml.itemXml();
 	}
 }
