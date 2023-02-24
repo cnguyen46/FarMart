@@ -1,0 +1,155 @@
+{
+"Stores": [
+[
+  {
+    "idStore": "TITSV1",
+    "managerCode": {
+      "idPerson": "AF1A57",
+      "lastName": "Napoleon",
+      "firstName": "Parker",
+      "addressPerson": {
+        "street": "70 Sunbrook Center",
+        "city": "Winterhall",
+        "state": "BN",
+        "zipCode": "78954",
+        "country": "US"
+      },
+      "email": [
+        "flamingBoy1882@nvm.com"
+      ]
+    },
+    "addressStore": {
+      "street": "999 Cold Brew",
+      "city": "Golden",
+      "state": "NE",
+      "zipCode": "21452",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV2",
+    "managerCode": {
+      "idPerson": "AF1A60",
+      "lastName": "Helium",
+      "firstName": "John",
+      "addressPerson": {
+        "street": "37 Black Sand Appartment - Apt. 9B",
+        "city": "Vegas",
+        "state": "OP",
+        "zipCode": "21546",
+        "country": "US"
+      },
+      "email": []
+    },
+    "addressStore": {
+      "street": "100 Mixed berry",
+      "city": "Winterhall",
+      "state": "BN",
+      "zipCode": "78954",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV3",
+    "managerCode": {
+      "idPerson": "AF1A64",
+      "lastName": "Sieldfire",
+      "firstName": "Linda",
+      "addressPerson": {
+        "street": "427 Neon Village Past",
+        "city": "Wilkytorm",
+        "state": "ZA",
+        "zipCode": "69851",
+        "country": "US"
+      },
+      "email": [
+        "thisisafakemail@linda.com",
+        "iamNotaBot9018@facebook.com"
+      ]
+    },
+    "addressStore": {
+      "street": "156-9A Green Machine",
+      "city": "Pionners",
+      "state": "TS",
+      "zipCode": "32054",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV4",
+    "managerCode": {
+      "idPerson": "AF1A55",
+      "lastName": "William",
+      "firstName": "Logan",
+      "addressPerson": {
+        "street": "65337 Heavy Street",
+        "city": "Crystal",
+        "state": "GH",
+        "zipCode": "69856",
+        "country": "US"
+      },
+      "email": [
+        "wolfverin34@gmail.com",
+        "thisisme117@yahoo.com"
+      ]
+    },
+    "addressStore": {
+      "street": "627 Big red",
+      "city": "Sunrise",
+      "state": "QR",
+      "zipCode": "90546",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV5",
+    "managerCode": {
+      "idPerson": "AF1A61",
+      "lastName": "Stormsurlfing",
+      "firstName": "David",
+      "addressPerson": {
+        "street": "40 Mountain Moon Avenue",
+        "city": "New Paris",
+        "state": "YU",
+        "zipCode": "98745",
+        "country": "US"
+      },
+      "email": []
+    },
+    "addressStore": {
+      "street": "57 Islander",
+      "city": "Cooler",
+      "state": "TS",
+      "zipCode": "80605",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV6",
+    "managerCode": {
+      "idPerson": "AF1A59",
+      "lastName": "Ultraman",
+      "firstName": "Morgan",
+      "addressPerson": {
+        "street": "6811 Honey Valley Avenue",
+        "city": "Skyrim",
+        "state": "QD",
+        "zipCode": "98856",
+        "country": "US"
+      },
+      "email": [
+        "gerad.Harad1009@huskers.vn.com",
+        "gerad.Harad1009@this.com",
+        "gerad.Harad1009@that.com"
+      ]
+    },
+    "addressStore": {
+      "street": "7A Nutty Professor",
+      "city": "Mirai",
+      "state": "MN",
+      "zipCode": "75430",
+      "country": "US"
+    }
+  }
+]
+]}

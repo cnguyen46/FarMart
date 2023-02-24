@@ -1,0 +1,111 @@
+{
+"Items": [
+[
+  {
+    "model": "VIOA 2010",
+    "idItem": "9e4d34",
+    "nameItem": "Computer"
+  },
+  {
+    "model": "SamSung 109T",
+    "idItem": "14s7tR",
+    "nameItem": "Air conditioner"
+  },
+  {
+    "model": "RAZOR 666",
+    "idItem": "865lkR",
+    "nameItem": "Knife toolkit"
+  },
+  {
+    "model": "Beauty X3",
+    "idItem": "16gfRm",
+    "nameItem": "Pencil case"
+  },
+  {
+    "model": "Type A1",
+    "idItem": "9074TA",
+    "nameItem": "Printer"
+  },
+  {
+    "model": "MAC V",
+    "idItem": "127VBF",
+    "nameItem": "Laptop"
+  },
+  {
+    "model": "WTD 1999",
+    "idItem": "IWNJ98",
+    "nameItem": "Scanner"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 500.0,
+    "idItem": "00094P",
+    "nameItem": "Potatoes"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 1000.0,
+    "idItem": "00067C",
+    "nameItem": "Carrot"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 500.0,
+    "idItem": "00084C",
+    "nameItem": "Cabbage"
+  },
+  {
+    "unit": "bottle",
+    "unitPrice": 250.0,
+    "idItem": "00012M",
+    "nameItem": "2% Milk"
+  },
+  {
+    "unit": "ton",
+    "unitPrice": 1000.0,
+    "idItem": "000GSS",
+    "nameItem": "Great soil"
+  },
+  {
+    "unit": "pound",
+    "unitPrice": 150.0,
+    "idItem": "MMNF87",
+    "nameItem": "Candy"
+  },
+  {
+    "hourlyRate": 250.0,
+    "idItem": "SFYIDC",
+    "nameItem": "Transportation"
+  },
+  {
+    "hourlyRate": 100.0,
+    "idItem": "TI4YRQ",
+    "nameItem": "Maintaining"
+  },
+  {
+    "hourlyRate": 25.0,
+    "idItem": "WTHTYS",
+    "nameItem": "Auditor"
+  },
+  {
+    "hourlyRate": 10.0,
+    "idItem": "NIDNTD",
+    "nameItem": "Harvesting"
+  },
+  {
+    "hourlyRate": 500.0,
+    "idItem": "GMTMNM",
+    "nameItem": "Constructing"
+  },
+  {
+    "hourlyRate": 1000.0,
+    "idItem": "ONYDDD",
+    "nameItem": "Tracking"
+  },
+  {
+    "hourlyRate": 50.0,
+    "idItem": "YGFYSD",
+    "nameItem": "Teaching assistant"
+  }
+]
+]}
