@@ -7,10 +7,10 @@
       <firstName>Parker</firstName>
       <address>
         <street>70 Sunbrook Center</street>
-        <city>Winterhalm</city>
+        <city>Winterhall</city>
         <state>BN</state>
         <zipCode>78954</zipCode>
-        <country>VN</country>
+        <country>US</country>
       </address>
       <email>
         <string>flamingBoy1882@nvm.com</string>
@@ -18,10 +18,10 @@
     </managerCode>
     <address>
       <street>999 Cold Brew</street>
-      <city>Nha Trang</city>
-      <state>OP</state>
+      <city>Golden</city>
+      <state>NE</state>
       <zipCode>21452</zipCode>
-      <country>VN</country>
+      <country>US</country>
     </address>
   </stores>
   <stores>
@@ -35,16 +35,16 @@
         <city>Vegas</city>
         <state>OP</state>
         <zipCode>21546</zipCode>
-        <country>VN</country>
+        <country>US</country>
       </address>
       <email/>
     </managerCode>
     <address>
       <street>100 Mixed berry</street>
-      <city>Da Nang</city>
-      <state>OP</state>
-      <zipCode>98762</zipCode>
-      <country>VN</country>
+      <city>Winterhall</city>
+      <state>BN</state>
+      <zipCode>78954</zipCode>
+      <country>US</country>
     </address>
   </stores>
   <stores>
@@ -58,7 +58,7 @@
         <city>Wilkytorm</city>
         <state>ZA</state>
         <zipCode>69851</zipCode>
-        <country>VN</country>
+        <country>US</country>
       </address>
       <email>
         <string>thisisafakemail@linda.com</string>
@@ -67,10 +67,10 @@
     </managerCode>
     <address>
       <street>156-9A Green Machine</street>
-      <city>Ha Noi</city>
+      <city>Pionners</city>
       <state>TS</state>
       <zipCode>32054</zipCode>
-      <country>VN</country>
+      <country>US</country>
     </address>
   </stores>
   <stores>
@@ -84,7 +84,7 @@
         <city>Crystal</city>
         <state>GH</state>
         <zipCode>69856</zipCode>
-        <country>VN</country>
+        <country>US</country>
       </address>
       <email>
         <string>wolfverin34@gmail.com</string>
@@ -93,10 +93,10 @@
     </managerCode>
     <address>
       <street>627 Big red</street>
-      <city>Sai Gon</city>
+      <city>Sunrise</city>
       <state>QR</state>
       <zipCode>90546</zipCode>
-      <country>VN</country>
+      <country>US</country>
     </address>
   </stores>
   <stores>
@@ -110,26 +110,43 @@
         <city>New Paris</city>
         <state>YU</state>
         <zipCode>98745</zipCode>
-        <country>VN</country>
+        <country>US</country>
       </address>
       <email/>
     </managerCode>
     <address>
       <street>57 Islander</street>
-      <city>Quang Ngai</city>
+      <city>Cooler</city>
       <state>TS</state>
       <zipCode>80605</zipCode>
-      <country>VN</country>
+      <country>US</country>
     </address>
   </stores>
   <stores>
     <idStore>TITSV6</idStore>
+    <managerCode>
+      <idPerson>AF1A59</idPerson>
+      <lastName>Ultraman</lastName>
+      <firstName>Morgan</firstName>
+      <address>
+        <street>6811 Honey Valley Avenue</street>
+        <city>Skyrim</city>
+        <state>QD</state>
+        <zipCode>98856</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>gerad.Harad1009@huskers.vn.com</string>
+        <string>gerad.Harad1009@this.com</string>
+        <string>gerad.Harad1009@that.com</string>
+      </email>
+    </managerCode>
     <address>
       <street>7A Nutty Professor</street>
-      <city>Tien Giang</city>
+      <city>Mirai</city>
       <state>MN</state>
       <zipCode>75430</zipCode>
-      <country>VN</country>
+      <country>US</country>
     </address>
   </stores>
 </list>

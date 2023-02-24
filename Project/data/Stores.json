@@ -9,10 +9,10 @@
       "firstName": "Parker",
       "addressPerson": {
         "street": "70 Sunbrook Center",
-        "city": "Winterhalm",
+        "city": "Winterhall",
         "state": "BN",
         "zipCode": "78954",
-        "country": "VN"
+        "country": "US"
       },
       "email": [
         "flamingBoy1882@nvm.com"
@@ -20,10 +20,10 @@
     },
     "addressStore": {
       "street": "999 Cold Brew",
-      "city": "Nha Trang",
-      "state": "OP",
+      "city": "Golden",
+      "state": "NE",
       "zipCode": "21452",
-      "country": "VN"
+      "country": "US"
     }
   },
   {
@@ -37,16 +37,16 @@
         "city": "Vegas",
         "state": "OP",
         "zipCode": "21546",
-        "country": "VN"
+        "country": "US"
       },
       "email": []
     },
     "addressStore": {
       "street": "100 Mixed berry",
-      "city": "Da Nang",
-      "state": "OP",
-      "zipCode": "98762",
-      "country": "VN"
+      "city": "Winterhall",
+      "state": "BN",
+      "zipCode": "78954",
+      "country": "US"
     }
   },
   {
@@ -60,7 +60,7 @@
         "city": "Wilkytorm",
         "state": "ZA",
         "zipCode": "69851",
-        "country": "VN"
+        "country": "US"
       },
       "email": [
         "thisisafakemail@linda.com",
@@ -69,10 +69,10 @@
     },
     "addressStore": {
       "street": "156-9A Green Machine",
-      "city": "Ha Noi",
+      "city": "Pionners",
       "state": "TS",
       "zipCode": "32054",
-      "country": "VN"
+      "country": "US"
     }
   },
   {
@@ -86,7 +86,7 @@
         "city": "Crystal",
         "state": "GH",
         "zipCode": "69856",
-        "country": "VN"
+        "country": "US"
       },
       "email": [
         "wolfverin34@gmail.com",
@@ -95,10 +95,10 @@
     },
     "addressStore": {
       "street": "627 Big red",
-      "city": "Sai Gon",
+      "city": "Sunrise",
       "state": "QR",
       "zipCode": "90546",
-      "country": "VN"
+      "country": "US"
     }
   },
   {
@@ -112,26 +112,43 @@
         "city": "New Paris",
         "state": "YU",
         "zipCode": "98745",
-        "country": "VN"
+        "country": "US"
       },
       "email": []
     },
     "addressStore": {
       "street": "57 Islander",
-      "city": "Quang Ngai",
+      "city": "Cooler",
       "state": "TS",
       "zipCode": "80605",
-      "country": "VN"
+      "country": "US"
     }
   },
   {
     "idStore": "TITSV6",
+    "managerCode": {
+      "idPerson": "AF1A59",
+      "lastName": "Ultraman",
+      "firstName": "Morgan",
+      "addressPerson": {
+        "street": "6811 Honey Valley Avenue",
+        "city": "Skyrim",
+        "state": "QD",
+        "zipCode": "98856",
+        "country": "US"
+      },
+      "email": [
+        "gerad.Harad1009@huskers.vn.com",
+        "gerad.Harad1009@this.com",
+        "gerad.Harad1009@that.com"
+      ]
+    },
     "addressStore": {
       "street": "7A Nutty Professor",
-      "city": "Tien Giang",
+      "city": "Mirai",
       "state": "MN",
       "zipCode": "75430",
-      "country": "VN"
+      "country": "US"
     }
   }
 ]
