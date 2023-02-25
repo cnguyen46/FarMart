@@ -1,4 +1,5 @@
 # Project-CSCE-156---Group-11
+## FarMarT project
 This is the project for class CSCE 156 - SEC 150
 
 # Phase 1: (Feb 24, 2023)
@@ -36,4 +37,4 @@ Approaching:
  - Create classes: Invoice, and InvoiceItem
  - Mapping the "idCode"
  - Creating the method to calculate the items price
- - Making the reports
+ - Making and formating the reports
