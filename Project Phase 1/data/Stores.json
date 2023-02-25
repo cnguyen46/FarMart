@@ -1,0 +1,159 @@
+{
+"Stores": [
+[
+  {
+    "idStore": "TITSV1",
+    "managerCode": {
+      "idPerson": "AF1A57",
+      "lastName": "Reece",
+      "firstName": "Haggerwood",
+      "addressPerson": {
+        "street": "19211 Maywood Circle",
+        "city": "Vancouver",
+        "state": "WA",
+        "zipCode": "98687",
+        "country": "US"
+      },
+      "email": [
+        "rhaggerwood4@histats.com"
+      ]
+    },
+    "addressStore": {
+      "street": "265 Tony Place",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "19136",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV2",
+    "managerCode": {
+      "idPerson": "AF1A60",
+      "lastName": "Faber",
+      "firstName": "Race",
+      "addressPerson": {
+        "street": "2 Buell Trail",
+        "city": "Irvine",
+        "state": "CA",
+        "zipCode": "92710",
+        "country": "US"
+      },
+      "email": [
+        "frace7@ning.com"
+      ]
+    },
+    "addressStore": {
+      "street": "60181 Cascade Road",
+      "city": "Raleigh",
+      "state": "NC",
+      "zipCode": "27690",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV3",
+    "managerCode": {
+      "idPerson": "AF1A64",
+      "lastName": "Nollie",
+      "firstName": "Blesdill",
+      "addressPerson": {
+        "street": "2 Loftsgordon Drive",
+        "city": "Erie",
+        "state": "PA",
+        "zipCode": "16550",
+        "country": "US"
+      },
+      "email": [
+        "nblesdillb@harvard.edu",
+        "iamNotaBot9018@facebook.com"
+      ]
+    },
+    "addressStore": {
+      "street": "263 Tony Junction",
+      "city": "Dayton",
+      "state": "OH",
+      "zipCode": "45408",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV4",
+    "managerCode": {
+      "idPerson": "AF1A55",
+      "lastName": "Randal",
+      "firstName": "Briddle",
+      "addressPerson": {
+        "street": "56059 Hollow Ridge Court",
+        "city": "Lees Summit",
+        "state": "MO",
+        "zipCode": "64082",
+        "country": "US"
+      },
+      "email": [
+        "rbriddle2@networkadvertising.org",
+        "thisisme117@yahoo.com"
+      ]
+    },
+    "addressStore": {
+      "street": "206 Main Court",
+      "city": "Kent",
+      "state": "WA",
+      "zipCode": "98042",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV5",
+    "managerCode": {
+      "idPerson": "AF1A61",
+      "lastName": "Berk",
+      "firstName": "Meanwell",
+      "addressPerson": {
+        "street": "651 Florence Junction",
+        "city": "Greensboro",
+        "state": "NC",
+        "zipCode": "27404",
+        "country": "US"
+      },
+      "email": [
+        "bmeanwell8@parallels.com"
+      ]
+    },
+    "addressStore": {
+      "street": "75579 Morningstar Hill",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77090",
+      "country": "US"
+    }
+  },
+  {
+    "idStore": "TITSV6",
+    "managerCode": {
+      "idPerson": "AF1A59",
+      "lastName": "Elsbeth",
+      "firstName": "Reveley",
+      "addressPerson": {
+        "street": "80 Shasta Alley",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zipCode": "84189",
+        "country": "US"
+      },
+      "email": [
+        "ereveley6@upenn.edu",
+        "gerad.Harad1009@this.com",
+        "gerad.Harad1009@that.com"
+      ]
+    },
+    "addressStore": {
+      "street": "538 Summit Parkway",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zipCode": "57198",
+      "country": "US"
+    }
+  }
+]
+]}
