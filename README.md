@@ -1,8 +1,8 @@
 # Project-CSCE-156---Group-11
-### FarMarT project
+## FarMarT project
 This is the project for class CSCE 156 - SEC 150
 
-# Phase 1: (Feb 24, 2023)
+## Phase 1: (Feb 24, 2023)
 Notes:
  - Understand the object class
  - Following the enscapsulation, and single-responsibility principle
@@ -18,7 +18,7 @@ Approaching:
  - Input the data from CSV files, and instantiating the classes (Hint: Using HashMap, or List)
  - Output the data from three classes as the JSON, or XML files
 
-# Phase 2: (Mar 10, 2023)
+## Phase 2: (Mar 10, 2023)
 Notes:
  - Following 4 principles: Abstraction, Encapsulation, Inheritance, and Polymorphism
  - Understand the abstract class
