@@ -13,8 +13,8 @@ import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
 /**
- * This is the JUnit testing program for various classes, that helps the main
- * class {@link #DataConverter}. Various tests include the created methods, and
+ * This is the JUnit testing program for various classes of the main
+ * class {@link #DataConverter}. Various tests include creating object methods, and
  * see whether the expected results match with the output
  * 
  * @author Cong Nguyen
