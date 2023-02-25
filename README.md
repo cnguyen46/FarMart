@@ -13,12 +13,12 @@ Requirement:
  - Making test case/ creating CSV files
  - Parsing the data from CSV files
  - Output the data as JSON or XML files
- - Making Junit Test (Optional)
 
 Approaching:
  - Create classes: Person, Address, Store, Item, Equipment, Product, and Service 
  - Input the data from CSV files, and instantiating the classes (Hint: Using HashMap, or List)
  - Output the data from three classes as the JSON, or XML files
+ - Making Junit Test (Optional)
 
 ## Phase 2: (Mar 10, 2023)
 Notes:
@@ -40,3 +40,4 @@ Approaching:
  - Mapping the "idCode"
  - Creating the method to calculate the items price
  - Making and formating the reports
+ - Making Junit Test (Optional)
