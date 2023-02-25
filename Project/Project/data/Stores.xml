@@ -4,24 +4,24 @@
     <idStore>TITSV1</idStore>
     <managerCode>
       <idPerson>AF1A57</idPerson>
-      <lastName>Napoleon</lastName>
-      <firstName>Parker</firstName>
+      <lastName>Reece</lastName>
+      <firstName>Haggerwood</firstName>
       <address>
-        <street>70 Sunbrook Center</street>
-        <city>Winterhall</city>
-        <state>BN</state>
-        <zipCode>78954</zipCode>
+        <street>19211 Maywood Circle</street>
+        <city>Vancouver</city>
+        <state>WA</state>
+        <zipCode>98687</zipCode>
         <country>US</country>
       </address>
       <email>
-        <string>flamingBoy1882@nvm.com</string>
+        <string>rhaggerwood4@histats.com</string>
       </email>
     </managerCode>
     <address>
-      <street>999 Cold Brew</street>
-      <city>Golden</city>
-      <state>NE</state>
-      <zipCode>21452</zipCode>
+      <street>265 Tony Place</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <zipCode>19136</zipCode>
       <country>US</country>
     </address>
   </stores>
@@ -29,22 +29,24 @@
     <idStore>TITSV2</idStore>
     <managerCode>
       <idPerson>AF1A60</idPerson>
-      <lastName>Helium</lastName>
-      <firstName>John</firstName>
+      <lastName>Faber</lastName>
+      <firstName>Race</firstName>
       <address>
-        <street>37 Black Sand Appartment - Apt. 9B</street>
-        <city>Vegas</city>
-        <state>OP</state>
-        <zipCode>21546</zipCode>
+        <street>2 Buell Trail</street>
+        <city>Irvine</city>
+        <state>CA</state>
+        <zipCode>92710</zipCode>
         <country>US</country>
       </address>
-      <email/>
+      <email>
+        <string>frace7@ning.com</string>
+      </email>
     </managerCode>
     <address>
-      <street>100 Mixed berry</street>
-      <city>Winterhall</city>
-      <state>BN</state>
-      <zipCode>78954</zipCode>
+      <street>60181 Cascade Road</street>
+      <city>Raleigh</city>
+      <state>NC</state>
+      <zipCode>27690</zipCode>
       <country>US</country>
     </address>
   </stores>
@@ -52,25 +54,25 @@
     <idStore>TITSV3</idStore>
     <managerCode>
       <idPerson>AF1A64</idPerson>
-      <lastName>Sieldfire</lastName>
-      <firstName>Linda</firstName>
+      <lastName>Nollie</lastName>
+      <firstName>Blesdill</firstName>
       <address>
-        <street>427 Neon Village Past</street>
-        <city>Wilkytorm</city>
-        <state>ZA</state>
-        <zipCode>69851</zipCode>
+        <street>2 Loftsgordon Drive</street>
+        <city>Erie</city>
+        <state>PA</state>
+        <zipCode>16550</zipCode>
         <country>US</country>
       </address>
       <email>
-        <string>thisisafakemail@linda.com</string>
+        <string>nblesdillb@harvard.edu</string>
         <string>iamNotaBot9018@facebook.com</string>
       </email>
     </managerCode>
     <address>
-      <street>156-9A Green Machine</street>
-      <city>Pionners</city>
-      <state>TS</state>
-      <zipCode>32054</zipCode>
+      <street>263 Tony Junction</street>
+      <city>Dayton</city>
+      <state>OH</state>
+      <zipCode>45408</zipCode>
       <country>US</country>
     </address>
   </stores>
@@ -78,25 +80,25 @@
     <idStore>TITSV4</idStore>
     <managerCode>
       <idPerson>AF1A55</idPerson>
-      <lastName>William</lastName>
-      <firstName>Logan</firstName>
+      <lastName>Randal</lastName>
+      <firstName>Briddle</firstName>
       <address>
-        <street>65337 Heavy Street</street>
-        <city>Crystal</city>
-        <state>GH</state>
-        <zipCode>69856</zipCode>
+        <street>56059 Hollow Ridge Court</street>
+        <city>Lees Summit</city>
+        <state>MO</state>
+        <zipCode>64082</zipCode>
         <country>US</country>
       </address>
       <email>
-        <string>wolfverin34@gmail.com</string>
+        <string>rbriddle2@networkadvertising.org</string>
         <string>thisisme117@yahoo.com</string>
       </email>
     </managerCode>
     <address>
-      <street>627 Big red</street>
-      <city>Sunrise</city>
-      <state>QR</state>
-      <zipCode>90546</zipCode>
+      <street>206 Main Court</street>
+      <city>Kent</city>
+      <state>WA</state>
+      <zipCode>98042</zipCode>
       <country>US</country>
     </address>
   </stores>
@@ -104,22 +106,24 @@
     <idStore>TITSV5</idStore>
     <managerCode>
       <idPerson>AF1A61</idPerson>
-      <lastName>Stormsurlfing</lastName>
-      <firstName>David</firstName>
+      <lastName>Berk</lastName>
+      <firstName>Meanwell</firstName>
       <address>
-        <street>40 Mountain Moon Avenue</street>
-        <city>New Paris</city>
-        <state>YU</state>
-        <zipCode>98745</zipCode>
+        <street>651 Florence Junction</street>
+        <city>Greensboro</city>
+        <state>NC</state>
+        <zipCode>27404</zipCode>
         <country>US</country>
       </address>
-      <email/>
+      <email>
+        <string>bmeanwell8@parallels.com</string>
+      </email>
     </managerCode>
     <address>
-      <street>57 Islander</street>
-      <city>Cooler</city>
-      <state>TS</state>
-      <zipCode>80605</zipCode>
+      <street>75579 Morningstar Hill</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <zipCode>77090</zipCode>
       <country>US</country>
     </address>
   </stores>
@@ -127,26 +131,26 @@
     <idStore>TITSV6</idStore>
     <managerCode>
       <idPerson>AF1A59</idPerson>
-      <lastName>Ultraman</lastName>
-      <firstName>Morgan</firstName>
+      <lastName>Elsbeth</lastName>
+      <firstName>Reveley</firstName>
       <address>
-        <street>6811 Honey Valley Avenue</street>
-        <city>Skyrim</city>
-        <state>QD</state>
-        <zipCode>98856</zipCode>
+        <street>80 Shasta Alley</street>
+        <city>Salt Lake City</city>
+        <state>UT</state>
+        <zipCode>84189</zipCode>
         <country>US</country>
       </address>
       <email>
-        <string>gerad.Harad1009@huskers.vn.com</string>
+        <string>ereveley6@upenn.edu</string>
         <string>gerad.Harad1009@this.com</string>
         <string>gerad.Harad1009@that.com</string>
       </email>
     </managerCode>
     <address>
-      <street>7A Nutty Professor</street>
-      <city>Mirai</city>
-      <state>MN</state>
-      <zipCode>75430</zipCode>
+      <street>538 Summit Parkway</street>
+      <city>Sioux Falls</city>
+      <state>SD</state>
+      <zipCode>57198</zipCode>
       <country>US</country>
     </address>
   </stores>

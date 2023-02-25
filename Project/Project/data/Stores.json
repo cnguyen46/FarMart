@@ -5,24 +5,24 @@
     "idStore": "TITSV1",
     "managerCode": {
       "idPerson": "AF1A57",
-      "lastName": "Napoleon",
-      "firstName": "Parker",
+      "lastName": "Reece",
+      "firstName": "Haggerwood",
       "addressPerson": {
-        "street": "70 Sunbrook Center",
-        "city": "Winterhall",
-        "state": "BN",
-        "zipCode": "78954",
+        "street": "19211 Maywood Circle",
+        "city": "Vancouver",
+        "state": "WA",
+        "zipCode": "98687",
         "country": "US"
       },
       "email": [
-        "flamingBoy1882@nvm.com"
+        "rhaggerwood4@histats.com"
       ]
     },
     "addressStore": {
-      "street": "999 Cold Brew",
-      "city": "Golden",
-      "state": "NE",
-      "zipCode": "21452",
+      "street": "265 Tony Place",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "19136",
       "country": "US"
     }
   },
@@ -30,22 +30,24 @@
     "idStore": "TITSV2",
     "managerCode": {
       "idPerson": "AF1A60",
-      "lastName": "Helium",
-      "firstName": "John",
+      "lastName": "Faber",
+      "firstName": "Race",
       "addressPerson": {
-        "street": "37 Black Sand Appartment - Apt. 9B",
-        "city": "Vegas",
-        "state": "OP",
-        "zipCode": "21546",
+        "street": "2 Buell Trail",
+        "city": "Irvine",
+        "state": "CA",
+        "zipCode": "92710",
         "country": "US"
       },
-      "email": []
+      "email": [
+        "frace7@ning.com"
+      ]
     },
     "addressStore": {
-      "street": "100 Mixed berry",
-      "city": "Winterhall",
-      "state": "BN",
-      "zipCode": "78954",
+      "street": "60181 Cascade Road",
+      "city": "Raleigh",
+      "state": "NC",
+      "zipCode": "27690",
       "country": "US"
     }
   },
@@ -53,25 +55,25 @@
     "idStore": "TITSV3",
     "managerCode": {
       "idPerson": "AF1A64",
-      "lastName": "Sieldfire",
-      "firstName": "Linda",
+      "lastName": "Nollie",
+      "firstName": "Blesdill",
       "addressPerson": {
-        "street": "427 Neon Village Past",
-        "city": "Wilkytorm",
-        "state": "ZA",
-        "zipCode": "69851",
+        "street": "2 Loftsgordon Drive",
+        "city": "Erie",
+        "state": "PA",
+        "zipCode": "16550",
         "country": "US"
       },
       "email": [
-        "thisisafakemail@linda.com",
+        "nblesdillb@harvard.edu",
         "iamNotaBot9018@facebook.com"
       ]
     },
     "addressStore": {
-      "street": "156-9A Green Machine",
-      "city": "Pionners",
-      "state": "TS",
-      "zipCode": "32054",
+      "street": "263 Tony Junction",
+      "city": "Dayton",
+      "state": "OH",
+      "zipCode": "45408",
       "country": "US"
     }
   },
@@ -79,25 +81,25 @@
     "idStore": "TITSV4",
     "managerCode": {
       "idPerson": "AF1A55",
-      "lastName": "William",
-      "firstName": "Logan",
+      "lastName": "Randal",
+      "firstName": "Briddle",
       "addressPerson": {
-        "street": "65337 Heavy Street",
-        "city": "Crystal",
-        "state": "GH",
-        "zipCode": "69856",
+        "street": "56059 Hollow Ridge Court",
+        "city": "Lees Summit",
+        "state": "MO",
+        "zipCode": "64082",
         "country": "US"
       },
       "email": [
-        "wolfverin34@gmail.com",
+        "rbriddle2@networkadvertising.org",
         "thisisme117@yahoo.com"
       ]
     },
     "addressStore": {
-      "street": "627 Big red",
-      "city": "Sunrise",
-      "state": "QR",
-      "zipCode": "90546",
+      "street": "206 Main Court",
+      "city": "Kent",
+      "state": "WA",
+      "zipCode": "98042",
       "country": "US"
     }
   },
@@ -105,22 +107,24 @@
     "idStore": "TITSV5",
     "managerCode": {
       "idPerson": "AF1A61",
-      "lastName": "Stormsurlfing",
-      "firstName": "David",
+      "lastName": "Berk",
+      "firstName": "Meanwell",
       "addressPerson": {
-        "street": "40 Mountain Moon Avenue",
-        "city": "New Paris",
-        "state": "YU",
-        "zipCode": "98745",
+        "street": "651 Florence Junction",
+        "city": "Greensboro",
+        "state": "NC",
+        "zipCode": "27404",
         "country": "US"
       },
-      "email": []
+      "email": [
+        "bmeanwell8@parallels.com"
+      ]
     },
     "addressStore": {
-      "street": "57 Islander",
-      "city": "Cooler",
-      "state": "TS",
-      "zipCode": "80605",
+      "street": "75579 Morningstar Hill",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77090",
       "country": "US"
     }
   },
@@ -128,26 +132,26 @@
     "idStore": "TITSV6",
     "managerCode": {
       "idPerson": "AF1A59",
-      "lastName": "Ultraman",
-      "firstName": "Morgan",
+      "lastName": "Elsbeth",
+      "firstName": "Reveley",
       "addressPerson": {
-        "street": "6811 Honey Valley Avenue",
-        "city": "Skyrim",
-        "state": "QD",
-        "zipCode": "98856",
+        "street": "80 Shasta Alley",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zipCode": "84189",
         "country": "US"
       },
       "email": [
-        "gerad.Harad1009@huskers.vn.com",
+        "ereveley6@upenn.edu",
         "gerad.Harad1009@this.com",
         "gerad.Harad1009@that.com"
       ]
     },
     "addressStore": {
-      "street": "7A Nutty Professor",
-      "city": "Mirai",
-      "state": "MN",
-      "zipCode": "75430",
+      "street": "538 Summit Parkway",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zipCode": "57198",
       "country": "US"
     }
   }

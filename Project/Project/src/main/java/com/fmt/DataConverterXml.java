@@ -28,7 +28,7 @@ public class DataConverterXml {
 
 		// Using XStream to convert the List into xml file
 		XStream xstream = new XStream(new DomDriver());
-		xstream.alias("persons", Person.class);
+		xstream.aliasType("persons", Person.class);
 		xstream.aliasField("address", Person.class, "addressPerson");
 		String dataXml = xstream.toXML(listPerson).replaceAll("list", "persons");
 
@@ -55,7 +55,7 @@ public class DataConverterXml {
 
 		// Using XStream to convert the List into xml file
 		XStream xstream = new XStream(new DomDriver());
-		xstream.alias("stores", Store.class);
+		xstream.aliasType("stores", Store.class);
 		xstream.aliasField("address", Person.class, "addressPerson");
 		xstream.aliasField("address", Store.class, "addressStore");
 		xstream.setMode(XStream.XPATH_ABSOLUTE_REFERENCES);
@@ -84,9 +84,9 @@ public class DataConverterXml {
 
 		// Using XStream to convert the List into xml file
 		XStream xstream = new XStream(new DomDriver());
-		xstream.alias("equpment", Equipment.class);
-		xstream.alias("products", Product.class);
-		xstream.alias("services", Service.class);
+		xstream.aliasType("equpment", Equipment.class);
+		xstream.aliasType("products", Product.class);
+		xstream.aliasType("services", Service.class);
 		String dataXml = xstream.toXML(listItem).replaceAll("list", "items");
 
 		// Output the xml file
