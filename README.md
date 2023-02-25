@@ -7,7 +7,7 @@ This is the project for class CSCE 156 - SEC 150
 *** Notes: 
  - Download the .rar file. 
  - In case of updating the code on Github:
-   + Download the code from "src" folder to your IDE Eclipse. 
+   + Download directly the code from "src" folder to your IDE Eclipse. 
    + Do not download the file java from "bin/com/fmt" folder
 
 ## Phase 1: (Feb 24, 2023)
