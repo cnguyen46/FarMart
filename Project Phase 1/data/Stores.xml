@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<stores>
+  <store>
+    <idStore>TITSV1</idStore>
+    <managerCode>
+      <idPerson>AF1A57</idPerson>
+      <lastName>Reece</lastName>
+      <firstName>Haggerwood</firstName>
+      <address>
+        <street>19211 Maywood Circle</street>
+        <city>Vancouver</city>
+        <state>WA</state>
+        <zipCode>98687</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>rhaggerwood4@histats.com</string>
+      </email>
+    </managerCode>
+    <address>
+      <street>265 Tony Place</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <zipCode>19136</zipCode>
+      <country>US</country>
+    </address>
+  </store>
+  <store>
+    <idStore>TITSV2</idStore>
+    <managerCode>
+      <idPerson>AF1A60</idPerson>
+      <lastName>Faber</lastName>
+      <firstName>Race</firstName>
+      <address>
+        <street>2 Buell Trail</street>
+        <city>Irvine</city>
+        <state>CA</state>
+        <zipCode>92710</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>frace7@ning.com</string>
+      </email>
+    </managerCode>
+    <address>
+      <street>60181 Cascade Road</street>
+      <city>Raleigh</city>
+      <state>NC</state>
+      <zipCode>27690</zipCode>
+      <country>US</country>
+    </address>
+  </store>
+  <store>
+    <idStore>TITSV3</idStore>
+    <managerCode>
+      <idPerson>AF1A64</idPerson>
+      <lastName>Nollie</lastName>
+      <firstName>Blesdill</firstName>
+      <address>
+        <street>2 Loftsgordon Drive</street>
+        <city>Erie</city>
+        <state>PA</state>
+        <zipCode>16550</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>nblesdillb@harvard.edu</string>
+        <string>iamNotaBot9018@facebook.com</string>
+      </email>
+    </managerCode>
+    <address>
+      <street>263 Tony Junction</street>
+      <city>Dayton</city>
+      <state>OH</state>
+      <zipCode>45408</zipCode>
+      <country>US</country>
+    </address>
+  </store>
+  <store>
+    <idStore>TITSV4</idStore>
+    <managerCode>
+      <idPerson>AF1A55</idPerson>
+      <lastName>Randal</lastName>
+      <firstName>Briddle</firstName>
+      <address>
+        <street>56059 Hollow Ridge Court</street>
+        <city>Lees Summit</city>
+        <state>MO</state>
+        <zipCode>64082</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>rbriddle2@networkadvertising.org</string>
+        <string>thisisme117@yahoo.com</string>
+      </email>
+    </managerCode>
+    <address>
+      <street>206 Main Court</street>
+      <city>Kent</city>
+      <state>WA</state>
+      <zipCode>98042</zipCode>
+      <country>US</country>
+    </address>
+  </store>
+  <store>
+    <idStore>TITSV5</idStore>
+    <managerCode>
+      <idPerson>AF1A61</idPerson>
+      <lastName>Berk</lastName>
+      <firstName>Meanwell</firstName>
+      <address>
+        <street>651 Florence Junction</street>
+        <city>Greensboro</city>
+        <state>NC</state>
+        <zipCode>27404</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>bmeanwell8@parallels.com</string>
+      </email>
+    </managerCode>
+    <address>
+      <street>75579 Morningstar Hill</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <zipCode>77090</zipCode>
+      <country>US</country>
+    </address>
+  </store>
+  <store>
+    <idStore>TITSV6</idStore>
+    <managerCode>
+      <idPerson>AF1A59</idPerson>
+      <lastName>Elsbeth</lastName>
+      <firstName>Reveley</firstName>
+      <address>
+        <street>80 Shasta Alley</street>
+        <city>Salt Lake City</city>
+        <state>UT</state>
+        <zipCode>84189</zipCode>
+        <country>US</country>
+      </address>
+      <email>
+        <string>ereveley6@upenn.edu</string>
+        <string>gerad.Harad1009@this.com</string>
+        <string>gerad.Harad1009@that.com</string>
+      </email>
+    </managerCode>
+    <address>
+      <street>538 Summit Parkway</street>
+      <city>Sioux Falls</city>
+      <state>SD</state>
+      <zipCode>57198</zipCode>
+      <country>US</country>
+    </address>
+  </store>
+</stores>
