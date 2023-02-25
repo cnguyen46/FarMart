@@ -24,7 +24,7 @@ Approaching:
 Notes:
  - Following 4 principles: Abstraction, Encapsulation, Inheritance, and Polymorphism
  - Understand the abstract class
- - Understand the comparator, sorting method (For bonus)
+ - Understand the comparator, and sorting method (For bonus)
   
 Requirement:
  - Making test case/ creating CSV files
