@@ -84,7 +84,7 @@ public class DataConverterXml {
 
 		// Using XStream to convert the List into xml file
 		XStream xstream = new XStream(new DomDriver());
-		xstream.aliasType("equpment", Equipment.class);
+		xstream.aliasType("equipment", Equipment.class);
 		xstream.aliasType("products", Product.class);
 		xstream.aliasType("services", Service.class);
 		String dataXml = xstream.toXML(listItem).replaceAll("list", "items");
