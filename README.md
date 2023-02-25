@@ -20,12 +20,16 @@ Approaching:
 # Phase 2: (Mar 10, 2023)
 Notes:
  - Following 4 principles: Abstraction, Encapsulation, Inheritance, and Polymorphism
+ - Understand the abstract class
+ - Understand the comparator, sorting method (For bonus)
   
 Requirement:
  - Making test case/ creating CSV files
  - Create the class to model the system and funcutionality as specified and hold appropriate data
  - Loading the data, and create 3 reports:
-   -  
+   + The first report will give a summary of all sales along with a few totals
+   + The second report will give a similiar summary but for each store
+   + The final report will give details for each individual invoice  
  - Formating the reports
 
 Approaching:
@@ -33,4 +37,3 @@ Approaching:
  - Mapping the "idCode"
  - Creating the method to calculate the items price
  - Making the reports
- //Updated later
