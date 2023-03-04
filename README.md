@@ -37,7 +37,7 @@ Requirement:
 
 Approaching:
  - Create classes: Invoice, and InvoiceItem
- - Mapping the "idCode"
+ - Mapping the "idCode" for each variable in Invoice, and InvoiceItem
  - Creating the method to calculate the items price
  - Making and formating the reports
  - Making Junit Test (Optional)
