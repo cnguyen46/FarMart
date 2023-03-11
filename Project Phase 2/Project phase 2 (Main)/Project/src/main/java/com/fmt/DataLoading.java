@@ -246,7 +246,7 @@ public class DataLoading {
 				Invoice invoiceInfo = hashMapInvoice.get(tokens[0]);
 				Item itemInfo = hashMapItem.get(tokens[1]);
 
-				if (itemInfo.getTypeItem().equals("E")) {
+				if (itemInfo instanceof Equipment)) {
 					String agreement = tokens[2];
 					Double price = Double.parseDouble(tokens[3]);
 					if (agreement.equals("P")) {
