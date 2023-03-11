@@ -1,0 +1,199 @@
++---------------------------------------------------------------------------+
+| Summary Report - By Total                                                 |
++---------------------------------------------------------------------------+
+Invoice  Store    Customer             Num Items          Tax          Total
+BIL007   TITSV6   Randal, Briddle      0          $      0.00  $        0.00
+BIL006   TITSV5   Candie, Crannage     2          $     41.40  $     1241.40
+BIL005   TITSV4   Terrance, Rayman     3          $     53.64  $      803.64
+BIL004   TITSV2   Candie, Crannage     1          $     27.60  $      827.60
+BIL003   TITSV3   Terrance, Rayman     2          $     17.25  $    68517.25
+BIL002   TITSV1   Corbin, Brine        1          $    536.25  $     8036.25
+BIL001   TITSV1   Terrance, Rayman     4          $    596.27  $    97546.27
++---------------------------------------------------------------------------+
+                                       13         $   1272.41  $   176972.41
+
++--------------------------------------------------------+
+| Store Sales Summary Report                             |
++--------------------------------------------------------+
+Store      Manager                Sales        GrandTotal
+TITSV5     Candie, Crannage       1        $      1241.40
+TITSV4     Terrance, Rayman       1        $       803.64
+TITSV3     Terrance, Rayman       1        $     68517.25
+TITSV2     Candie, Crannage       1        $       827.60
+TITSV6     Randal, Briddle        1        $         0.00
+TITSV1     Terrance, Rayman       2        $    105582.52
++--------------------------------------------------------+
+                                  7        $    176972.41
+
+Invoice #BIL007
+Store   #TITSV6
+Date     2023-03-02
+Customer:
+Randal, Briddle (PUR003 : [rbriddle2@networkadvertising.org, thisisme117@yahoo.com])
+     56059 Hollow Ridge Court
+     Lees Summit MO 64082 US
+
+Sales Person:
+Nollie, Blesdill (SAL006 : [nblesdillb@harvard.edu, iamNotaBot9018@facebook.com])
+     2 Loftsgordon Drive
+     Erie PA 16550 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $      0.00
+                                                                 Tax $      0.00
+                                                         Grand Total $      0.00
+Invoice #BIL006
+Store   #TITSV5
+Date     2023-02-28
+Customer:
+Candie, Crannage (PUR002 : [ccrannage1@digg.com, minamiCrimson@gmail.com, crimsonQueen@yahoo.com.vn])
+     3896 Shelley Terrace
+     Gaithersburg MD 20883 US
+
+Sales Person:
+Berk, Meanwell (SAL003 : [bmeanwell8@parallels.com])
+     651 Florence Junction
+     Greensboro NC 27404 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IS004M   (Service) Maintaining
+     8.0 hours @ $100.00/hr
+                                                                     $    800.00
+IS008A   (Service) Auditing
+     8.0 hours @ $50.00/hr
+                                                                     $    400.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $   1200.00
+                                                                 Tax $     41.40
+                                                         Grand Total $   1241.40
+Invoice #BIL005
+Store   #TITSV4
+Date     2023-02-22
+Customer:
+Terrance, Rayman (PUR001 : [trayman0@sitemeter.com, squarry0@salon.com])
+     2 Hauk Alley
+     Monticello MN 55565 US
+
+Sales Person:
+Faber, Race (SAL002 : [frace7@ning.com])
+     2 Buell Trail
+     Irvine CA 92710 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IP094P   (Product) Potato seeds
+     10.00 @ $25.00/bag
+                                                                     $    250.00
+IP067C   (Product) Carrot seeds
+     10.00 @ $25.00/bag
+                                                                     $    250.00
+IP084C   (Product) Cabbage seeds
+     10.00 @ $25.00/bag
+                                                                     $    250.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $    750.00
+                                                                 Tax $     53.64
+                                                         Grand Total $    803.64
+Invoice #BIL004
+Store   #TITSV2
+Date     2023-02-15
+Customer:
+Candie, Crannage (PUR002 : [ccrannage1@digg.com, minamiCrimson@gmail.com, crimsonQueen@yahoo.com.vn])
+     3896 Shelley Terrace
+     Gaithersburg MD 20883 US
+
+Sales Person:
+Prentiss, Dungey (SAL004 : [pdungey9@hubpages.com, tobeOrnottoBe1092@engineering.com, sjlkThesia@hmail.com, universal76forthis09@haha.com])
+     41 Bluestem Terrace
+     Washington DC 20057 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IS025T   (Service) Teaching assistant
+    40.0 hours @ $20.00/hr
+                                                                     $    800.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $    800.00
+                                                                 Tax $     27.60
+                                                         Grand Total $    827.60
+Invoice #BIL003
+Store   #TITSV3
+Date     2023-02-12
+Customer:
+Terrance, Rayman (PUR001 : [trayman0@sitemeter.com, squarry0@salon.com])
+     2 Hauk Alley
+     Monticello MN 55565 US
+
+Sales Person:
+Hermia, Bunford (SAL005 : [hbunforda@businesswire.com, thisisit918@yahoo.com, nowhere134@gmail.com])
+     2306 Stang Court
+     Newark DE 19714 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IE96T3   (Purchase) Tractor-WTD 1999
+                                                                     $  68000.00
+IS002T   (Service) Transportation
+     5.0 hours @ $100.00/hr
+                                                                     $    500.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $  68500.00
+                                                                 Tax $     17.25
+                                                         Grand Total $  68517.25
+Invoice #BIL002
+Store   #TITSV1
+Date     2023-01-31
+Customer:
+Corbin, Brine (PUR004 : [cbrine3@webnode.com, forVahala1992@crystal.com, skyrimBelongtotheNord666@gmail.com])
+     2 Canary Lane
+     Washington DC 20268 US
+
+Sales Person:
+Faber, Race (SAL002 : [frace7@ning.com])
+     2 Buell Trail
+     Irvine CA 92710 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IP028S   (Product) Great soil
+     10.00 @ $750.00/ton
+                                                                     $   7500.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $   7500.00
+                                                                 Tax $    536.25
+                                                         Grand Total $   8036.25
+Invoice #BIL001
+Store   #TITSV1
+Date     2023-01-25
+Customer:
+Terrance, Rayman (PUR001 : [trayman0@sitemeter.com, squarry0@salon.com])
+     2 Hauk Alley
+     Monticello MN 55565 US
+
+Sales Person:
+Elsbeth, Reveley (SAL001 : [ereveley6@upenn.edu, gerad.Harad1009@this.com, gerad.Harad1009@that.com])
+     80 Shasta Alley
+     Salt Lake City UT 84189 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IE001A   (Purchase) Farm truck-BuzzKit 117
+                                                                     $  59000.00
+IE117E   (Lease) Cultipacker-Warrior X3
+     365 days (2023-02-01 -> 2024-01-31) @ $3000.00/ 30 days
+                                                                     $  36500.00
+IP0F87   (Product) Grass Seeds
+     50.00 @ $25.00/pound
+                                                                     $   1250.00
+IS002T   (Service) Transportation
+     2.0 hours @ $100.00/hr
+                                                                     $    200.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $  96950.00
+                                                                 Tax $    596.27
+                                                         Grand Total $  97546.27
+
+
