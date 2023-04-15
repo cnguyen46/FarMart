@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<item>
+  <com.fmt.Equipment>
+    <itemCode>IE549T</itemCode>
+    <nameItem>Land Imprinter</nameItem>
+    <model>NightHound MAC V</model>
+  </com.fmt.Equipment>
+  <com.fmt.Equipment>
+    <itemCode>IE96T3</itemCode>
+    <nameItem>Tractor</nameItem>
+    <model>WTD 1999</model>
+  </com.fmt.Equipment>
+  <com.fmt.Product>
+    <itemCode>IP094P</itemCode>
+    <nameItem>Potato seeds</nameItem>
+    <unit>bag</unit>
+    <unitPrice>25.0</unitPrice>
+  </com.fmt.Product>
+  <com.fmt.Service>
+    <itemCode>IS017H</itemCode>
+    <nameItem>Harvesting</nameItem>
+    <hourlyRate>10.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Equipment>
+    <itemCode>IE873W</itemCode>
+    <nameItem>Subsoiler</nameItem>
+    <model>BlueSteel Type A1</model>
+  </com.fmt.Equipment>
+  <com.fmt.Service>
+    <itemCode>IS010C</itemCode>
+    <nameItem>Constructing</nameItem>
+    <hourlyRate>100.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Service>
+    <itemCode>IS008A</itemCode>
+    <nameItem>Auditing</nameItem>
+    <hourlyRate>50.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <itemCode>IP028S</itemCode>
+    <nameItem>Great soil</nameItem>
+    <unit>ton</unit>
+    <unitPrice>20.0</unitPrice>
+  </com.fmt.Product>
+  <com.fmt.Product>
+    <itemCode>IP012M</itemCode>
+    <nameItem>2% Milk</nameItem>
+    <unit>bottle</unit>
+    <unitPrice>12.0</unitPrice>
+  </com.fmt.Product>
+  <com.fmt.Product>
+    <itemCode>IP084C</itemCode>
+    <nameItem>Cabbage seeds</nameItem>
+    <unit>bag</unit>
+    <unitPrice>25.0</unitPrice>
+  </com.fmt.Product>
+  <com.fmt.Service>
+    <itemCode>IS025T</itemCode>
+    <nameItem>Teaching assistant</nameItem>
+    <hourlyRate>20.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <itemCode>IP0F87</itemCode>
+    <nameItem>Grass Seeds</nameItem>
+    <unit>pound</unit>
+    <unitPrice>25.0</unitPrice>
+  </com.fmt.Product>
+  <com.fmt.Service>
+    <itemCode>IS023T</itemCode>
+    <nameItem>Tracking</nameItem>
+    <hourlyRate>50.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Service>
+    <itemCode>IS002T</itemCode>
+    <nameItem>Transportation</nameItem>
+    <hourlyRate>100.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Product>
+    <itemCode>IP067C</itemCode>
+    <nameItem>Carrot seeds</nameItem>
+    <unit>bag</unit>
+    <unitPrice>25.0</unitPrice>
+  </com.fmt.Product>
+  <com.fmt.Equipment>
+    <itemCode>IE0139</itemCode>
+    <nameItem>Sprayer</nameItem>
+    <model>Evolve Gen.II-109T</model>
+  </com.fmt.Equipment>
+  <com.fmt.Equipment>
+    <itemCode>IE001A</itemCode>
+    <nameItem>Farm truck</nameItem>
+    <model>BuzzKit 117</model>
+  </com.fmt.Equipment>
+  <com.fmt.Equipment>
+    <itemCode>IE345F</itemCode>
+    <nameItem>Seed drill</nameItem>
+    <model>RAZOR 666</model>
+  </com.fmt.Equipment>
+  <com.fmt.Service>
+    <itemCode>IS004M</itemCode>
+    <nameItem>Maintaining</nameItem>
+    <hourlyRate>100.0</hourlyRate>
+  </com.fmt.Service>
+  <com.fmt.Equipment>
+    <itemCode>IE117E</itemCode>
+    <nameItem>Cultipacker</nameItem>
+    <model>Warrior X3</model>
+  </com.fmt.Equipment>
+</item>

@@ -1,0 +1,111 @@
+{
+"items": [
+[
+  {
+    "model": "NightHound MAC V",
+    "itemCode": "IE549T",
+    "nameItem": "Land Imprinter"
+  },
+  {
+    "model": "WTD 1999",
+    "itemCode": "IE96T3",
+    "nameItem": "Tractor"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 25.0,
+    "itemCode": "IP094P",
+    "nameItem": "Potato seeds"
+  },
+  {
+    "hourlyRate": 10.0,
+    "itemCode": "IS017H",
+    "nameItem": "Harvesting"
+  },
+  {
+    "model": "BlueSteel Type A1",
+    "itemCode": "IE873W",
+    "nameItem": "Subsoiler"
+  },
+  {
+    "hourlyRate": 100.0,
+    "itemCode": "IS010C",
+    "nameItem": "Constructing"
+  },
+  {
+    "hourlyRate": 50.0,
+    "itemCode": "IS008A",
+    "nameItem": "Auditing"
+  },
+  {
+    "unit": "ton",
+    "unitPrice": 20.0,
+    "itemCode": "IP028S",
+    "nameItem": "Great soil"
+  },
+  {
+    "unit": "bottle",
+    "unitPrice": 12.0,
+    "itemCode": "IP012M",
+    "nameItem": "2% Milk"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 25.0,
+    "itemCode": "IP084C",
+    "nameItem": "Cabbage seeds"
+  },
+  {
+    "hourlyRate": 20.0,
+    "itemCode": "IS025T",
+    "nameItem": "Teaching assistant"
+  },
+  {
+    "unit": "pound",
+    "unitPrice": 25.0,
+    "itemCode": "IP0F87",
+    "nameItem": "Grass Seeds"
+  },
+  {
+    "hourlyRate": 50.0,
+    "itemCode": "IS023T",
+    "nameItem": "Tracking"
+  },
+  {
+    "hourlyRate": 100.0,
+    "itemCode": "IS002T",
+    "nameItem": "Transportation"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 25.0,
+    "itemCode": "IP067C",
+    "nameItem": "Carrot seeds"
+  },
+  {
+    "model": "Evolve Gen.II-109T",
+    "itemCode": "IE0139",
+    "nameItem": "Sprayer"
+  },
+  {
+    "model": "BuzzKit 117",
+    "itemCode": "IE001A",
+    "nameItem": "Farm truck"
+  },
+  {
+    "model": "RAZOR 666",
+    "itemCode": "IE345F",
+    "nameItem": "Seed drill"
+  },
+  {
+    "hourlyRate": 100.0,
+    "itemCode": "IS004M",
+    "nameItem": "Maintaining"
+  },
+  {
+    "model": "Warrior X3",
+    "itemCode": "IE117E",
+    "nameItem": "Cultipacker"
+  }
+]
+]}
