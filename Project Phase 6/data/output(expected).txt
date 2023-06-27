@@ -1,0 +1,257 @@
++-------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                           |
++-------------------------------------------------------------------------------------+
+Invoice  Store    Customer                       Num Items          Tax          Total
+BIL009   TITSV4   Elsbeth, Reveley               2          $   1542.90  $   368142.90
+BIL003   TITSV3   Berk, Meanwell                 3          $     17.25  $   130517.25
+BIL001   TITSV1   Elsbeth, Reveley               4          $    596.27  $    97546.27
+BIL007   TITSV6   Helen, Miller                  3          $     62.57  $    60937.57
+BIL006   TITSV5   Elsbeth, Reveley               2          $     41.40  $     1241.40
+BIL004   TITSV2   Faber, Race                    1          $     27.60  $      827.60
+BIL005   TITSV4   Hermia, Bunford                3          $     53.64  $      803.64
+BIL002   TITSV1   Nollie, Blesdill               1          $     14.30  $      214.30
+BIL008   TITSV4   Prentiss, Dungey               0          $      0.00  $        0.00
++-------------------------------------------------------------------------------------+
+                                                 19         $   2355.93  $   660230.93
+
++---------------------------------------------------------------+
+| Store Sales Summary Report                                    |
++---------------------------------------------------------------+
+Store      Manager                      Sales        Grand Total
+TITSV7     Antony, Wyatt                0        $          0.00
+TITSV5     Candie, Crannage             1        $       1241.40
+TITSV2     Candie, Crannage             1        $        827.60
+TITSV6     Randal, Briddle              1        $      60937.57
+TITSV8     Reece, Haggerwood            0        $          0.00
+TITSV4     Terrance, Rayman             3        $     368946.54
+TITSV3     Terrance, Rayman             1        $     130517.25
+TITSV1     Terrance, Rayman             2        $      97760.57
++---------------------------------------------------------------+
+                                        9        $     660230.93
+
+Invoice #BIL009
+Store   #TITSV4
+Date     2023-03-10
+Customer:
+Elsbeth, Reveley (PUR001 : [ereveley6@upenn.edu, gerad.Harad1009@this.com])
+     80 Shasta Alley
+     Salt Lake City UT 84189 US
+
+Sales Person:
+Antony, Wyatt (SAL007 : [antonyW@yahoo.com])
+     9 Upper Gray St
+     Edinburgh JJ EH9 1SN UK
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IE345F   (Lease) Seed drill - RAZOR 666
+     366 days (2023-04-01 -> 2024-03-31) @ $30000.00/ 30 days
+                                                                     $ 366000.00
+IP012M   (Product) 2% Milk
+     50.00 @ $12.00/bottle
+                                                                     $    600.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $ 366600.00
+                                                                 Tax $   1542.90
+                                                         Grand Total $ 368142.90
+Invoice #BIL008
+Store   #TITSV4
+Date     2023-03-07
+Customer:
+Prentiss, Dungey (PUR004 : [nowhere134@gmail.com, pdungey9@hubpages.com, universal76forthis09@haha.com])
+     41 Bluestem Terrace
+     Washington DC 20057 US
+
+Sales Person:
+Reece, Haggerwood (SAL005 : [rhaggerwood4@histats.com])
+     19211 Maywood Circle
+     Vancouver WA 98687 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $      0.00
+                                                                 Tax $      0.00
+                                                         Grand Total $      0.00
+Invoice #BIL007
+Store   #TITSV6
+Date     2023-03-02
+Customer:
+Helen, Miller (SAL008 : [])
+     9 Upper Gray St
+     Edinburgh JJ EH9 1SN UK
+
+Sales Person:
+Helen, Miller (SAL008 : [])
+     9 Upper Gray St
+     Edinburgh JJ EH9 1SN UK
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IE549T   (Purchase) Land Imprinter - NightHound MAC V
+                                                                     $  60000.00
+IP0F87   (Product) Grass Seeds
+     10.00 @ $25.00/pound
+                                                                     $    250.00
+IP0F87   (Product) Grass Seeds
+     25.00 @ $25.00/pound
+                                                                     $    625.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $  60875.00
+                                                                 Tax $     62.57
+                                                         Grand Total $  60937.57
+Invoice #BIL006
+Store   #TITSV5
+Date     2023-02-28
+Customer:
+Elsbeth, Reveley (PUR001 : [ereveley6@upenn.edu, gerad.Harad1009@this.com])
+     80 Shasta Alley
+     Salt Lake City UT 84189 US
+
+Sales Person:
+Amy, Jenton (SAL006 : [ajenton5@eepurl.com, potteralex457@yahoo.com, potteralex457@red.com, potteralex457@witcher.com])
+     501 Kennedy Pass
+     San Jose CA 95194 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IS004M   (Service) Maintaining
+     8.0 hours @ $100.00/hr
+                                                                     $    800.00
+IS008A   (Service) Auditing
+     8.0 hours @ $50.00/hr
+                                                                     $    400.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $   1200.00
+                                                                 Tax $     41.40
+                                                         Grand Total $   1241.40
+Invoice #BIL005
+Store   #TITSV4
+Date     2023-02-22
+Customer:
+Hermia, Bunford (PUR005 : [hbunforda@businesswire.com, thisisit918@yahoo.com])
+     2306 Stang Court
+     Newark DE 19714 US
+
+Sales Person:
+Terrance, Rayman (SAL001 : [trayman0@sitemeter.com, squarry0@salon.com])
+     2 Hauk Alley
+     Monticello MN 55565 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IP094P   (Product) Potato seeds
+     10.00 @ $25.00/bag
+                                                                     $    250.00
+IP067C   (Product) Carrot seeds
+     10.00 @ $25.00/bag
+                                                                     $    250.00
+IP084C   (Product) Cabbage seeds
+     10.00 @ $25.00/bag
+                                                                     $    250.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $    750.00
+                                                                 Tax $     53.64
+                                                         Grand Total $    803.64
+Invoice #BIL004
+Store   #TITSV2
+Date     2023-02-15
+Customer:
+Faber, Race (PUR002 : [frace7@ning.com])
+     2 Buell Trail
+     Irvine CA 92710 US
+
+Sales Person:
+Candie, Crannage (SAL002 : [ccrannage1@digg.com, minamiCrimson@gmail.com, crimsonQueen@yahoo.com.vn])
+     3896 Shelley Terrace
+     Gaithersburg MD 20883 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IS025T   (Service) Teaching assistant
+    40.0 hours @ $20.00/hr
+                                                                     $    800.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $    800.00
+                                                                 Tax $     27.60
+                                                         Grand Total $    827.60
+Invoice #BIL003
+Store   #TITSV3
+Date     2023-02-12
+Customer:
+Berk, Meanwell (PUR003 : [bmeanwell8@parallels.com, sjlkThesia@hmail.com])
+     651 Florence Junction
+     Greensboro NC 27404 US
+
+Sales Person:
+Terrance, Rayman (SAL001 : [trayman0@sitemeter.com, squarry0@salon.com])
+     2 Hauk Alley
+     Monticello MN 55565 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IE96T3   (Purchase) Tractor - WTD 1999
+                                                                     $  68000.00
+IE96T3   (Purchase) Tractor - WTD 1999
+                                                                     $  62000.00
+IS002T   (Service) Transportation
+     5.0 hours @ $100.00/hr
+                                                                     $    500.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $ 130500.00
+                                                                 Tax $     17.25
+                                                         Grand Total $ 130517.25
+Invoice #BIL002
+Store   #TITSV1
+Date     2023-01-31
+Customer:
+Nollie, Blesdill (PUR006 : [nblesdillb@harvard.edu, iamNotaBot9018@facebook.com])
+     2 Loftsgordon Drive
+     Erie PA 16550 US
+
+Sales Person:
+Corbin, Brine (SAL004 : [cbrine3@webnode.com, forVahala1992@crystal.com])
+     2 Canary Lane
+     Washington DC 20268 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IP028S   (Product) Great soil
+     10.00 @ $20.00/ton
+                                                                     $    200.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $    200.00
+                                                                 Tax $     14.30
+                                                         Grand Total $    214.30
+Invoice #BIL001
+Store   #TITSV1
+Date     2023-01-25
+Customer:
+Elsbeth, Reveley (PUR001 : [ereveley6@upenn.edu, gerad.Harad1009@this.com])
+     80 Shasta Alley
+     Salt Lake City UT 84189 US
+
+Sales Person:
+Terrance, Rayman (SAL001 : [trayman0@sitemeter.com, squarry0@salon.com])
+     2 Hauk Alley
+     Monticello MN 55565 US
+
+Item                                                                       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                    -=-=-=-=-=-
+IE001A   (Purchase) Farm truck - BuzzKit 117
+                                                                     $  59000.00
+IE117E   (Lease) Cultipacker - Warrior X3
+     365 days (2023-02-01 -> 2024-01-31) @ $3000.00/ 30 days
+                                                                     $  36500.00
+IP0F87   (Product) Grass Seeds
+     50.00 @ $25.00/pound
+                                                                     $   1250.00
+IS002T   (Service) Transportation
+     2.0 hours @ $100.00/hr
+                                                                     $    200.00
+                                                                     -=-=-=-=-=-
+                                                            Subtotal $  96950.00
+                                                                 Tax $    596.27
+                                                         Grand Total $  97546.27
+
+

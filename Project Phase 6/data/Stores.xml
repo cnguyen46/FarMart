@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<store>
+  <com.fmt.Store>
+    <storeCode>TITSV5</storeCode>
+    <managerInfo>
+      <personCode>SAL002</personCode>
+      <lastName>Candie</lastName>
+      <firstName>Crannage</firstName>
+      <addressPerson>
+        <street>3896 Shelley Terrace</street>
+        <city>Gaithersburg</city>
+        <state>MD</state>
+        <zipCode>20883</zipCode>
+        <country>US</country>
+      </addressPerson>
+      <email>
+        <string>ccrannage1@digg.com</string>
+        <string>minamiCrimson@gmail.com</string>
+        <string>crimsonQueen@yahoo.com.vn</string>
+      </email>
+    </managerInfo>
+    <addressStore>
+      <street>75579 Morningstar Hill</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <zipCode>77090</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV4</storeCode>
+    <managerInfo>
+      <personCode>SAL001</personCode>
+      <lastName>Terrance</lastName>
+      <firstName>Rayman</firstName>
+      <addressPerson>
+        <street>2 Hauk Alley</street>
+        <city>Monticello</city>
+        <state>MN</state>
+        <zipCode>55565</zipCode>
+        <country>US</country>
+      </addressPerson>
+      <email>
+        <string>trayman0@sitemeter.com</string>
+        <string>squarry0@salon.com</string>
+      </email>
+    </managerInfo>
+    <addressStore>
+      <street>206 Main Court</street>
+      <city>Pittsburgh</city>
+      <state>PA</state>
+      <zipCode>15106</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV3</storeCode>
+    <managerInfo reference="../../com.fmt.Store[2]/managerInfo"/>
+    <addressStore>
+      <street>263 Tony Junction</street>
+      <city>Scranton</city>
+      <state>PA</state>
+      <zipCode>18503</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV2</storeCode>
+    <managerInfo reference="../../com.fmt.Store/managerInfo"/>
+    <addressStore>
+      <street>60181 Cascade Road</street>
+      <city>Dallas</city>
+      <state>TX</state>
+      <zipCode>75080</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV8</storeCode>
+    <managerInfo>
+      <personCode>SAL005</personCode>
+      <lastName>Reece</lastName>
+      <firstName>Haggerwood</firstName>
+      <addressPerson>
+        <street>19211 Maywood Circle</street>
+        <city>Vancouver</city>
+        <state>WA</state>
+        <zipCode>98687</zipCode>
+        <country>US</country>
+      </addressPerson>
+      <email>
+        <string>rhaggerwood4@histats.com</string>
+      </email>
+    </managerInfo>
+    <addressStore>
+      <street>154 Home Lake Avery</street>
+      <city>Scranton</city>
+      <state>PA</state>
+      <zipCode>18503</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV7</storeCode>
+    <managerInfo>
+      <personCode>SAL007</personCode>
+      <lastName>Antony</lastName>
+      <firstName>Wyatt</firstName>
+      <addressPerson>
+        <street>9 Upper Gray St</street>
+        <city>Edinburgh</city>
+        <state>JJ</state>
+        <zipCode>EH9 1SN</zipCode>
+        <country>UK</country>
+      </addressPerson>
+      <email>
+        <string>antonyW@yahoo.com</string>
+      </email>
+    </managerInfo>
+    <addressStore>
+      <street>42 Craigmount Terrace</street>
+      <city>Edinburgh</city>
+      <state>JJ</state>
+      <zipCode>EH12 8BW</zipCode>
+      <country>UK</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV6</storeCode>
+    <managerInfo>
+      <personCode>SAL003</personCode>
+      <lastName>Randal</lastName>
+      <firstName>Briddle</firstName>
+      <addressPerson>
+        <street>56059 Hollow Ridge Court</street>
+        <city>Lees Summit</city>
+        <state>MO</state>
+        <zipCode>64082</zipCode>
+        <country>US</country>
+      </addressPerson>
+      <email>
+        <string>rbriddle2@networkadvertising.org</string>
+        <string>thisisme117@yahoo.com</string>
+      </email>
+    </managerInfo>
+    <addressStore>
+      <street>538 Summit Parkway</street>
+      <city>Sioux Falls</city>
+      <state>SD</state>
+      <zipCode>57198</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+  <com.fmt.Store>
+    <storeCode>TITSV1</storeCode>
+    <managerInfo reference="../../com.fmt.Store[2]/managerInfo"/>
+    <addressStore>
+      <street>265 Tony Place</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <zipCode>19136</zipCode>
+      <country>US</country>
+    </addressStore>
+  </com.fmt.Store>
+</store>
