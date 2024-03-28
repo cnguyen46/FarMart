@@ -1,4 +1,4 @@
-# Project-CSCE-156---Group-11
+# Project-CSCE-156
 
 FarMarT project
 
