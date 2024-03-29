@@ -77,11 +77,11 @@ Approaching:
  - Create a helper class to connect database to Programming Java.
  - Create a helper class that is able to use the queries syntax in MySQL.
 
-## Phase 5:
+## Phase 6:
 
 Note:
  - Adapting the Sorted Linked List algorithm for the project.
 
 Requirement:
  - Creating Sorted Linked List to arrange the data after connecting to the database.
- - Printing out a report using the new sorted linked lists.
+ - Printing out final reports using the new sorted linked lists.
