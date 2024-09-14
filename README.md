@@ -2,7 +2,7 @@
 
 FarMarT project
 
-This is the project for class CSCE 156 - SEC 150. 
+This is the project for class CSCE 156 - SEC 150. Spring 2023 
 The project should be used for stuyding purpose.
 Copying the code on here for submiting the assignment is prohibited, and I won't hold any responsible if you are caught.
 
