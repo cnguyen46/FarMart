@@ -2,7 +2,9 @@
 
 FarMarT project
 
-This is the project for class CSCE 156 - SEC 150
+This is the project for class CSCE 156 - SEC 150. 
+The project should be used for stuyding purpose.
+I won't hold any responsible if you copy this project for your own assignment.
 
 ## Phase 1:
 Notes:
