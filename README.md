@@ -5,9 +5,9 @@ FarMarT project
 This is the project for class CSCE 156 - SEC 150, Spring 2023. Designed by Dr. Chris Bourke. 
 The project should be used for stuyding purpose.
 
-Copying the code on here for submiting the assignment is prohibited, and I won't hold any responsible if you do it.
+Copying the code on here for submiting the assignment is prohibited, and I will not hold any responsible if you violate it.
 I encourage you not to copy my code to submit your homewworks, as this is one of the core/ fundamental class for any students pursuiting Computer Science,
-Computer Engineer, or Software Engineer. You will see a lot of these concepts in the further advance course.
+Computer Engineer, or Software Engineer. You will see a lot of these concepts in the further advance courses.
 
 ## Phase 1:
 Notes:
