@@ -6,7 +6,3 @@
 
 Cong Nguyen
 cnguyen46@huskers.unl.edu
-
-Yashraj Purbey
-ypurbey2@huskers.unl.edu
-
